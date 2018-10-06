@@ -18,5 +18,5 @@ def run_guessing_game
       puts "The computer guessed #{secret_number}."
     end
    end
-   puts "Goodbye!"
+      puts "Goodbye!"
 end
